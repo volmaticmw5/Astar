@@ -1,0 +1,24 @@
+{
+  "name": "com.volmatic.astar",
+  "version": "0.0.1",
+  "displayName": "A* Navigation",
+  "description": "Custom navigation solutions for any mesh or terrain",
+  "unity": "2022.3",
+  "unityRelease": "4f1",
+  "documentationUrl": "https://github.com/volmaticmw5/Astar",
+  "changelogUrl": "https://github.com/volmaticmw5/Astar",
+  "licensesUrl": "https://github.com/volmaticmw5/Astar",
+  "dependencies": {
+  },
+  "keywords": [
+    "navigation",
+    "navmesh",
+    "a*",
+    "astar"
+  ],
+  "author": {
+    "name": "Volmatic",
+    "email": "volmaticmw5@gmail.com",
+    "url": "https://github.com/volmaticmw5/Astar"
+  }
+}
